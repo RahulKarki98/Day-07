@@ -1,4 +1,4 @@
-Q1 https://github.com/rvsp/typescript-oops/blob/master/Practice/Movie.md
+# Q1 https://github.com/rvsp/typescript-oops/blob/master/Practice/Movie.md
 Ans.
  class Movie{
       constructor(title,studio,rating="PG"){
@@ -23,7 +23,7 @@ Ans.
    console.log("Title of movie is----->"+movie2.title+"Studio of movie is----->"+ movie2.studio+"Rating of movie is------>"+ movie2.rating)
  
  
- Q2 https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md
+# Q2 https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md
    Ans.
     public class Circle{
       private Number radius;
@@ -52,7 +52,7 @@ Ans.
         return (2*3.14*radius);
       }
       
-  Q3 Write a “person” class to hold all the details
+ # Q3 Write a “person” class to hold all the details
   Ans. 
   class Person{
     constructor(name,age,qualification,job,country)
@@ -70,7 +70,7 @@ Ans.
       let person=new Person ( "Manoj","25","Graduate","Quality-manager","India" )
       console.log(person.fulldetails());
       
- Q4 Write a class to calculate the uber price
+# Q4 Write a class to calculate the uber price
  Ans.
  class Uber{
                constructor(price,kilometer){
