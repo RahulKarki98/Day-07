@@ -81,6 +81,6 @@ Ans.
                         return price*kilometer
                       }
       }
-var totalprice=new Uber(10,5)
-console.log(totalprice.calculate(10,5))
+var totalprice=new Uber(100,7)
+console.log(totalprice.calculate(100,7))
 
